@@ -30,3 +30,6 @@ RCSLOG
 SCCS
 _$*
 target
+.settings
+.classpath
+.project
